@@ -1,8 +1,8 @@
 # square_3func
 
-FINDING THE ROOTS and THE AREA OF FUNC`s
+FINDING THE ROOTS and THE AREA OF FUNC`s:
 
-f1 = 1 + 4/(x^2 + 1)    f2 = x^3    f3 = 2^(-x).
+$f1(x)$ = $1+\frac{4}{x^2+1}$  $f2(x)$ = $x^3$ $f3(x)$ = $\frac{1}{2^x}$
 
 Can process command-line arguments:
 
